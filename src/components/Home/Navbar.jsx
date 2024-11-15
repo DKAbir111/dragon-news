@@ -3,7 +3,7 @@ import user from '../../assets/user.png'
 
 export default function Navbar() {
     return (
-        <div className="flex justify-between container mx-auto pt-7 items-center *:w-1/3">
+        <div className="flex justify-between container mx-auto pt-7 pb-12 items-center *:w-1/3">
             <div>
             </div>
             <div className="space-x-7 flex justify-center">
